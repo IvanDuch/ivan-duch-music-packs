@@ -1,0 +1,19 @@
+{
+    "name": "ivan-duch-music-packs",
+    "title": "Ivan Duch's Music Packs",
+    "description": "A collection of my content.",
+    "version": "1.0.0",
+    "author": "Ivan Duch",
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "0.8.8",
+    "packs": [
+        {
+            "name": "module-playlists",
+            "label": "Ivan Duch's Playlists",
+            "path": "./packs/playlists.db",
+            "entity": "Playlist"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+  }
