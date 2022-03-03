@@ -17,3 +17,7 @@
 
 - Adds 4 new songs from my Folk album
 - Adds a ambiance folder filled with ambiance loops (SFXs + minimal music). More coming soon!
+
+**Version 1.3.5**
+
+- Changes hosting from Dropbox to DigitalOcean because of bandwidth limits.
