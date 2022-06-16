@@ -21,3 +21,7 @@
 **Version 1.3.5**
 
 - Changes hosting from Dropbox to DigitalOcean because of bandwidth limits.
+
+**Version 1.4**
+
+- Adds 4 new songs and 6 ambiances.
